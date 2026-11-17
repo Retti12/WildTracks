@@ -40,3 +40,4 @@ The source code is proprietary and not publicly available. For academic collabor
 **Petr Salnikov** — Senior PHP Developer & Geospatial Engineer
 - [Email](mailto:pravda121312@gmail.com)
 - [ORCID](https://orcid.org/0009-0006-3944-2908)
+- [ORCID](https://doi.org/10.5281/zenodo.24323990)
